@@ -301,10 +301,10 @@ a {
   flex: 3;
 }
 .content-hd .skill-level .i-js .in {
-  flex: 6.5;
+  flex: 8;
 }
 .content-hd .skill-level .i-js .out {
-  flex: 3.5;
+  flex: 2;
 }
 .content-hd .skill-level .i-sass .in {
   flex: 6;
@@ -317,6 +317,12 @@ a {
 }
 .content-hd .skill-level .i-ps .out {
   flex: 2.5;
+}
+.content-hd .skill-level .i-php .in {
+  flex: 7;
+}
+.content-hd .skill-level .i-php .out {
+  flex: 3;
 }
 @media screen and (max-width: 1024px) {
   .content-hd .skill-level {
