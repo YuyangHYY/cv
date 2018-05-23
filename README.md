@@ -2,19 +2,6 @@ https://yuyanghyy.github.io/cv/
 
 
 ## 简历（响应式web版、psd版）
-- 网页版简历 http://resume.toadw.cn
-
-该项目的项目源自[@ Cong Min](https://congm.in) 的简历的启发
-
-于是就根据之前自己设计的简历动手开发了`响应式Web版简历`
-
-这样在我们下次修改的时候我只需要简单的修改`html`里面的内容即可了
-
-该项目使用了`gulp` 、`sass`、 `compass`进行项目的构建，使用`Flexbox`做响应式布局
-
-- Fork或者借鉴请注明出处[@ Toad](http://toadw.cn)
-
-![imgview](toadresume-intro.jpg)
 
 
 #### 打印方法
