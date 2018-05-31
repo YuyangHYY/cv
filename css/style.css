@@ -690,7 +690,7 @@ footer.print-footer {
   }
   .content {
     width: 970px;
-    height: 1365px;
+    /* height: 1365px; */
     margin: 0 auto;
     -moz-border-radius: 0;
     -webkit-border-radius: 0;

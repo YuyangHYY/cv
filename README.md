@@ -1,4 +1,6 @@
-https://yuyanghyy.github.io/cv/
+简历网站：https://yuyanghyy.github.io/cv/
+
+browser-sync监听所有文件 browser-sync start --server --files "**/**.*"
 
 
 ## 简历（响应式web版、psd版）
