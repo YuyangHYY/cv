@@ -23,3 +23,4 @@ browser-sync监听所有文件 browser-sync start --server --files "**/**.*"
 ```
 3. 修改完浏览器预览-打印
 
+2020.12.7 修改完成后，如何更新github.io网站
